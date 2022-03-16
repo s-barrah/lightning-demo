@@ -87,7 +87,6 @@ export default class App extends Lightning.Component {
         }
 
         menuSelect({ item }) {
-          console.log('MENU SELECT ---- ITEM: ', item)
           if (this._hasMethod(item.action)) {
             return this[item.action]()
           }

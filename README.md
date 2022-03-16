@@ -1,8 +1,8 @@
-# Lightning Demo
+# TicTacToe
 
 ## com.lightning-demo
 
-### Getting started
+### Development
 
 > Before you follow the steps below, make sure you have the
 [Lightning-CLI](https://rdkcentral.github.io/Lightning-CLI/#/) installed _globally_ only your system
